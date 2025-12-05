@@ -1,0 +1,16 @@
+# Python requirements for Walmart Analytics Visualization
+
+# Snowflake connector
+snowflake-connector-python==3.6.0
+
+# Data manipulation
+pandas==2.1.4
+numpy==1.26.3
+
+# Visualization libraries
+plotly==5.18.0
+matplotlib==3.8.2
+seaborn==0.13.1
+
+# Optional: for more advanced visualizations
+kaleido==0.2.1  # For static image export
